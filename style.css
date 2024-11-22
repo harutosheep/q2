@@ -1,0 +1,26 @@
+
+.kek{border: 2px solid red;
+    display: grid;
+    grid-template-columns:repeat(3,200px) ;
+    grid-template-rows:repeat(3,200px) ;
+    grid-template-areas:"header1 header1 header1 header1" "news1 news2 news3" ;
+}
+.a1{grid-area: blue1;}
+.a2{grid-area: violet1;}
+.a3{grid-area: ;}
+.a4{grid-area: news3;}
+.a5{grid-area: img1;}
+.a6{grid-area: text1;}
+.a7{grid-area: text1;}
+.a8{grid-area: text1;}
+.a9{grid-area: text1;}
+.a10{grid-area: text1;}
+.a11{grid-area: text1;}
+.a12{grid-area: text1;}
+.a13{grid-area: text1;}
+.a14{grid-area: text1;}
+.a15{grid-area: text1;}
+div{border: 2px solid red;}
+
+
+
